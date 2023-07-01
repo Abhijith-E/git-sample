@@ -1,4 +1,1 @@
-sample text file
-second statement
-third statement
-negative
+sample text
