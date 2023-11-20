@@ -1,5 +1,0 @@
-sample text
-sucess
-new file added
-new file again added
-cloned file modified
